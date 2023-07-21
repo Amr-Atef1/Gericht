@@ -9,3 +9,16 @@
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
+@media screen and (max-width: 768px) {
+  .app__header-h1{
+    line-height: 100px;
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .app__header-h1{
+    line-height: 80px;
+    font-size: 60px;
+  }
+}
