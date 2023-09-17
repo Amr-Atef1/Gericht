@@ -55,7 +55,6 @@
   height: 100vh;
   background-color: var(--color-black);
   transition: 0.5s ease;
-
   flex-direction: column;
   z-index: 5;
 }
